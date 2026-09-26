@@ -1,2 +1,2 @@
-Hello GIT
+Hello GIT from new-branch
 From new-branch
